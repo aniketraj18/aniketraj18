@@ -1,7 +1,7 @@
 [![MasterHead](https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)]
 <h1 align="center">Hi 👋, I'm Aniket Raj</h1>
 <h3 align="center">A guy in tech.</h3>
-(img align="right" alt="Coding" width="400" src="https://rb.gy/qqsneb")
+<img src="https://rb.gy/qqsneb" align="right" alt="Coding" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketraj18&label=Profile%20views&color=0e75b6&style=flat" alt="aniketraj18" /> </p>
 

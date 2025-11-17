@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketraj18&label=Profile%20views&color=0e75b6&style=flat" alt="aniketraj18" /> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning ****
 
-- 💬 Ask me about **HTML,C++,CSS,Javascript,Cricket.**
+- 💬 Ask me about **HTML,C++,CSS,Javascript,SQL,Python,Azure,Power BiCricket.**
 
 - 📫 How to reach me **aniketraj180201@gmail.com**
 
